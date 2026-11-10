@@ -1,0 +1,10 @@
+tier,provider,plan,vcpu,ram_gb,storage_gb,monthly_usd,usd_per_gb_ram,usd_per_vcpu,usd_per_gb_storage,source_page
+entry,DigitalOcean,Basic 1 vCPU / 1 GiB,1,1,25,6.00,6.00,6.00,0.24,https://serverbudget.com/vps-price-compare
+entry,OVHcloud,VPS-1,2,4,40,4.54,1.135,2.27,0.1135,https://serverbudget.com/vps-price-compare
+entry,ScalaHosting,Build #1,2,4,50,22.46,5.615,11.23,0.4492,https://serverbudget.com/vps-price-compare
+mid,DigitalOcean,Basic 2 vCPU / 4 GiB,2,4,80,24.00,6.00,12.00,0.30,https://serverbudget.com/vps-price-compare
+mid,OVHcloud,VPS-1,2,4,40,4.54,1.135,2.27,0.1135,https://serverbudget.com/vps-price-compare
+mid,ScalaHosting,Build #1,2,4,50,22.46,5.615,11.23,0.4492,https://serverbudget.com/vps-price-compare
+high,DigitalOcean,Basic 8 vCPU / 16 GiB,8,16,320,96.00,6.00,12.00,0.30,https://serverbudget.com/vps-price-compare
+high,OVHcloud,VPS-4,8,24,200,23.37,0.97375,2.92125,0.11685,https://serverbudget.com/vps-price-compare
+high,ScalaHosting,Build #4,12,24,200,71.21,2.9671,5.9342,0.35605,https://serverbudget.com/vps-price-compare
