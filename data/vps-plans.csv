@@ -1,0 +1,17 @@
+position,provider,plan_label,monthly_usd,type,source_url,site_read_date,rebuilt_at_utc
+1,OVHcloud,OVHcloud - From $4.54 /month,4.54,plan,https://serverbudget.com/deal-1,2026-11-10,2026-11-10T04:24:38Z
+2,OVHcloud,OVHcloud - From $8.50 /month,8.50,plan,https://serverbudget.com/deal-2,2026-11-10,2026-11-10T04:24:38Z
+3,OVHcloud,OVHcloud - From $12.32 /month,12.32,plan,https://serverbudget.com/deal-3,2026-11-10,2026-11-10T04:24:38Z
+4,OVHcloud,OVHcloud - From $23.37 /month,23.37,plan,https://serverbudget.com/deal-4,2026-11-10,2026-11-10T04:24:38Z
+5,DigitalOcean,DigitalOcean - Basic 1 vCPU / 1 GiB - $6.00 /month,6.00,plan,https://www.digitalocean.com/pricing/droplets,2026-11-10,2026-11-10T04:24:38Z
+6,DigitalOcean,DigitalOcean - Basic 1 vCPU / 2 GiB - $12.00 /month,12.00,plan,https://www.digitalocean.com/pricing/droplets,2026-11-10,2026-11-10T04:24:38Z
+7,DigitalOcean,DigitalOcean - Basic 2 vCPU / 2 GiB - $18.00 /month,18.00,plan,https://www.digitalocean.com/pricing/droplets,2026-11-10,2026-11-10T04:24:38Z
+8,DigitalOcean,DigitalOcean - Basic 2 vCPU / 4 GiB - $24.00 /month,24.00,plan,https://www.digitalocean.com/pricing/droplets,2026-11-10,2026-11-10T04:24:38Z
+9,DigitalOcean,DigitalOcean - Basic 4 vCPU / 8 GiB - $48.00 /month,48.00,plan,https://www.digitalocean.com/pricing/droplets,2026-11-10,2026-11-10T04:24:38Z
+10,DigitalOcean,DigitalOcean - Basic 8 vCPU / 16 GiB - $96.00 /month,96.00,plan,https://www.digitalocean.com/pricing/droplets,2026-11-10,2026-11-10T04:24:38Z
+11,ScalaHosting,ScalaHosting - Build #1 - $22.46 /month,22.46,plan,https://www.scalahosting.com/vps-hosting,2026-11-10,2026-11-10T04:24:38Z
+12,ScalaHosting,ScalaHosting - Build #2 - $33.71 /month,33.71,plan,https://www.scalahosting.com/vps-hosting,2026-11-10,2026-11-10T04:24:38Z
+13,ScalaHosting,ScalaHosting - Build #3 - $52.46 /month,52.46,plan,https://www.scalahosting.com/vps-hosting,2026-11-10,2026-11-10T04:24:38Z
+14,ScalaHosting,ScalaHosting - Build #4 - $71.21 /month,71.21,plan,https://www.scalahosting.com/vps-hosting,2026-11-10,2026-11-10T04:24:38Z
+15,OVHcloud add-on,OVHcloud add-on - Premium automatic backup - From $1.40 /month,1.40,add-on,https://serverbudget.com/deal-5,2026-11-10,2026-11-10T04:24:38Z
+16,OVHcloud add-on,OVHcloud add-on - Snapshots - From $0.40 /month,0.40,add-on,https://serverbudget.com/deal-6,2026-11-10,2026-11-10T04:24:38Z
