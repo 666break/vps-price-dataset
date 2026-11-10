@@ -1,0 +1,8 @@
+category,item,digitalocean,ovhcloud,scalahosting,source_page
+add-on,"Backup","+20%/mo weekly or +30%/mo daily of the Droplet price; usage-based from $0.01/GiB","$1.40/mo for Premium; 24-hour daily backup included free","Listed as a core feature, no separate price on the page",https://serverbudget.com/vps-price-compare
+add-on,"Snapshots","$0.06/GB per month","$0.40/mo","Listed as a premium feature, no separate price on the page",https://serverbudget.com/vps-price-compare
+terms,"Bandwidth overage","1,000 GiB outbound on the $6 / 1 GiB Droplet; the $24 / 4 GiB Droplet on the same table carries 4,000 GiB. Overage rate none listed on official page","Unlimited traffic included; no overage price listed","Unmetered, listed as a core feature; no overage price listed",https://serverbudget.com/vps-price-compare
+terms,"Billing term","Per-second billing, no annual commitment listed","12 months paid upfront","12 months prepaid; renews at $54.95/mo",https://serverbudget.com/vps-price-compare
+renewal,"Basic 1 vCPU / 1 GiB","$6.00/mo; renewal price none published on the official page; ratio cannot compute","","",https://serverbudget.com/vps-price-compare
+renewal,"VPS-1","","$4.54/mo; renewal price none published on the official page; ratio cannot compute","",https://serverbudget.com/vps-price-compare
+renewal,"Build #1","","","$22.46/mo introductory, renews at $54.95/mo, 2.45x",https://serverbudget.com/vps-price-compare
