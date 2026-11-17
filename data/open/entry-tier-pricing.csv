@@ -1,0 +1,5 @@
+memory,vcpu,transfer,ssd,hourly_usd,monthly_usd,source_urls
+512 MiB,1,500 GiB,10 GiB,0.00595,4.00,https://www.digitalocean.com/pricing/droplets
+1 GiB,1,"1,000 GiB",25 GiB,0.00893,6.00,https://www.digitalocean.com/pricing/droplets
+2 GiB,2,"3,000 GiB",60 GiB,0.02679,18.00,https://www.digitalocean.com/pricing/droplets
+16 GiB,8,"6,000 GiB",320 GiB,0.14286,96.00,https://www.digitalocean.com/pricing/droplets
