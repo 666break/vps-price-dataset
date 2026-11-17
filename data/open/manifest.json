@@ -1,0 +1,66 @@
+[
+  {
+    "file": "vps-plan-pricing.csv",
+    "rows": 9,
+    "columns": 12,
+    "bytes": 1334,
+    "md5": "4f130adf07bd7e4ee747c744bd2f18ac",
+    "source_page": "https://serverbudget.com/vps-price-compare.html"
+  },
+  {
+    "file": "vps-addon-costs.csv",
+    "rows": 15,
+    "columns": 4,
+    "bytes": 1916,
+    "md5": "8e2f321b0299bd79862222b2f648847c",
+    "source_page": "https://serverbudget.com/vps-price-compare.html"
+  },
+  {
+    "file": "vps-price-vs-renewal.csv",
+    "rows": 3,
+    "columns": 7,
+    "bytes": 411,
+    "md5": "274572084022c05bd373b63145661299",
+    "source_page": "https://serverbudget.com/vps-price-compare.html"
+  },
+  {
+    "file": "renewal-price-comparison.csv",
+    "rows": 10,
+    "columns": 8,
+    "bytes": 6284,
+    "md5": "cc82ebc69f2f5ff1f31664e15864a910",
+    "source_page": "https://serverbudget.com/vps-renewal-price.html"
+  },
+  {
+    "file": "coupon-offers.csv",
+    "rows": 133,
+    "columns": 5,
+    "bytes": 31688,
+    "md5": "37a5c55f0bd7a365efc110f5f96eafb8",
+    "source_page": "https://serverbudget.com/a2hosting-coupon-code.html, bluehost-coupon-code.html, chemicloud-coupon-code.html, cloudways-coupon-code.html, contabo-coupon-code.html, domain-promo-code.html, dreamhost-coupon-code.html, fastcomet-coupon-code.html, godaddy-promo-code.html, greengeeks-coupon-code.html, hetzner-coupon-code.html, hostgator-coupon-code.html, hostinger-coupon-code.html, hostpapa-coupon-code.html, hostwinds-coupon-code.html, inmotionhosting-coupon-code.html, interserver-coupon-code.html, knownhost-coupon-code.html, liquidweb-coupon-code.html, namecheap-promo-code.html, ovhcloud-coupon-code.html, porkbun-coupon-code.html, porkbun-promo-code.html, scalahosting-coupon-code.html, siteground-coupon-code.html, vultr-coupon-code.html"
+  },
+  {
+    "file": "datacenter-region-pricing.csv",
+    "rows": 6,
+    "columns": 7,
+    "bytes": 380,
+    "md5": "8062586e89c6db87d98cba845580dd7f",
+    "source_page": "https://serverbudget.com/vps-datacenter-region-price.html"
+  },
+  {
+    "file": "contract-term-total-cost.csv",
+    "rows": 4,
+    "columns": 8,
+    "bytes": 457,
+    "md5": "a635aaaa16f6d5de3333cd8938202ad8",
+    "source_page": "https://serverbudget.com/cheap-vps-contract-length-total-cost.html"
+  },
+  {
+    "file": "entry-tier-pricing.csv",
+    "rows": 4,
+    "columns": 7,
+    "bytes": 406,
+    "md5": "d0e343faed045503f6916d7bdc843afa",
+    "source_page": "https://serverbudget.com/cheap-vps-entry-price.html"
+  }
+]
