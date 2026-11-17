@@ -1,0 +1,10 @@
+provider,plan,tier_group,tier_reference_spec,vcpu,ram_gb,storage_gb,price_usd_per_month,usd_per_gb_ram,usd_per_vcpu,usd_per_gb_storage,source_urls
+DigitalOcean,Basic 1 vCPU / 1 GiB,tier-1,1 vCPU / 1 GB,1,1,25,6.00,6.00,6.00,0.24,https://www.digitalocean.com/pricing/droplets
+OVHcloud,VPS-1,tier-1,1 vCPU / 1 GB,2,4,40,4.54,1.135,2.27,0.1135,https://www.ovhcloud.com/en/vps/
+ScalaHosting,Build #1 billed 12 months up front; renews $54.95/mo,tier-1,1 vCPU / 1 GB,2,4,50,22.46,5.615,11.23,0.4492,https://www.scalahosting.com/vps-hosting
+DigitalOcean,Basic 2 vCPU / 4 GiB,tier-2,2 vCPU / 4 GB,2,4,80,24.00,6.00,12.00,0.30,https://www.digitalocean.com/pricing/droplets
+OVHcloud,VPS-1,tier-2,2 vCPU / 4 GB,2,4,40,4.54,1.135,2.27,0.1135,https://www.ovhcloud.com/en/vps/
+ScalaHosting,Build #1 billed 12 months up front; renews $54.95/mo,tier-2,2 vCPU / 4 GB,2,4,50,22.46,5.615,11.23,0.4492,https://www.scalahosting.com/vps-hosting
+DigitalOcean,Basic 8 vCPU / 16 GiB,tier-3,8 vCPU / 16 GB,8,16,320,96.00,6.00,12.00,0.30,https://www.digitalocean.com/pricing/droplets
+OVHcloud,VPS-4,tier-3,8 vCPU / 16 GB,8,24,200,23.37,0.97375,2.92125,0.11685,https://www.ovhcloud.com/en/vps/
+ScalaHosting,Build #4 billed 12 months up front; renews $244.95/mo,tier-3,8 vCPU / 16 GB,12,24,200,71.21,2.9671,5.9342,0.35605,https://www.scalahosting.com/vps-hosting
