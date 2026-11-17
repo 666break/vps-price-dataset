@@ -1,0 +1,5 @@
+provider,plan,displayed_starting_rate_usd_per_month,cost_1_month_usd,cost_12_months_usd,cost_24_months_usd,cost_36_months_usd,source_urls
+OVHcloud,VPS-1,4.54,4.54,54.48,108.96,163.44,https://www.ovhcloud.com/en/vps/
+OVHcloud,VPS-2,8.50,8.50,102.00,204.00,306.00,https://www.ovhcloud.com/en/vps/
+OVHcloud,VPS-3,12.32,12.32,147.84,295.68,443.52,https://www.ovhcloud.com/en/vps/
+OVHcloud,VPS-4,23.37,23.37,280.44,560.88,841.32,https://www.ovhcloud.com/en/vps/
