@@ -1,0 +1,4 @@
+provider,plan,price_now_usd_per_month,renewal_price,renewal_gap,billing_terms,source_urls
+DigitalOcean,Basic 1 vCPU / 1 GiB,6.00,none published on the official page,cannot compute,"Per-second billing, no annual commitment listed",
+OVHcloud,VPS-1,4.54,none published on the official page,cannot compute,12 months paid upfront,
+ScalaHosting,Build #1,22.46,$54.95/mo,2.45×,12 months prepaid; renews at $54.95/mo,
