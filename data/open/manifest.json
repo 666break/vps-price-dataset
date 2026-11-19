@@ -5,7 +5,7 @@
     "columns": 12,
     "bytes": 1334,
     "md5": "4f130adf07bd7e4ee747c744bd2f18ac",
-    "source_page": "https://serverbudget.com/vps-price-compare.html"
+    "source_page": "https://serverbudget.com/vps-price-compare"
   },
   {
     "file": "vps-addon-costs.csv",
@@ -13,7 +13,7 @@
     "columns": 4,
     "bytes": 1916,
     "md5": "8e2f321b0299bd79862222b2f648847c",
-    "source_page": "https://serverbudget.com/vps-price-compare.html"
+    "source_page": "https://serverbudget.com/vps-price-compare"
   },
   {
     "file": "vps-price-vs-renewal.csv",
@@ -21,7 +21,7 @@
     "columns": 7,
     "bytes": 411,
     "md5": "274572084022c05bd373b63145661299",
-    "source_page": "https://serverbudget.com/vps-price-compare.html"
+    "source_page": "https://serverbudget.com/vps-price-compare"
   },
   {
     "file": "renewal-price-comparison.csv",
@@ -29,7 +29,7 @@
     "columns": 8,
     "bytes": 6284,
     "md5": "cc82ebc69f2f5ff1f31664e15864a910",
-    "source_page": "https://serverbudget.com/vps-renewal-price.html"
+    "source_page": "https://serverbudget.com/vps-renewal-price"
   },
   {
     "file": "coupon-offers.csv",
@@ -37,7 +37,7 @@
     "columns": 5,
     "bytes": 31688,
     "md5": "37a5c55f0bd7a365efc110f5f96eafb8",
-    "source_page": "https://serverbudget.com/a2hosting-coupon-code.html, bluehost-coupon-code.html, chemicloud-coupon-code.html, cloudways-coupon-code.html, contabo-coupon-code.html, domain-promo-code.html, dreamhost-coupon-code.html, fastcomet-coupon-code.html, godaddy-promo-code.html, greengeeks-coupon-code.html, hetzner-coupon-code.html, hostgator-coupon-code.html, hostinger-coupon-code.html, hostpapa-coupon-code.html, hostwinds-coupon-code.html, inmotionhosting-coupon-code.html, interserver-coupon-code.html, knownhost-coupon-code.html, liquidweb-coupon-code.html, namecheap-promo-code.html, ovhcloud-coupon-code.html, porkbun-coupon-code.html, porkbun-promo-code.html, scalahosting-coupon-code.html, siteground-coupon-code.html, vultr-coupon-code.html"
+    "source_page": "https://serverbudget.com/a2hosting-coupon-code, https://serverbudget.com/bluehost-coupon-code, https://serverbudget.com/chemicloud-coupon-code, https://serverbudget.com/cloudways-coupon-code, https://serverbudget.com/contabo-coupon-code, https://serverbudget.com/domain-promo-code, https://serverbudget.com/dreamhost-coupon-code, https://serverbudget.com/fastcomet-coupon-code, https://serverbudget.com/godaddy-promo-code, https://serverbudget.com/greengeeks-coupon-code, https://serverbudget.com/hetzner-coupon-code, https://serverbudget.com/hostgator-coupon-code, https://serverbudget.com/hostinger-coupon-code, https://serverbudget.com/hostpapa-coupon-code, https://serverbudget.com/hostwinds-coupon-code, https://serverbudget.com/inmotionhosting-coupon-code, https://serverbudget.com/interserver-coupon-code, https://serverbudget.com/knownhost-coupon-code, https://serverbudget.com/liquidweb-coupon-code, https://serverbudget.com/namecheap-promo-code, https://serverbudget.com/ovhcloud-coupon-code, https://serverbudget.com/porkbun-coupon-code, https://serverbudget.com/porkbun-promo-code, https://serverbudget.com/scalahosting-coupon-code, https://serverbudget.com/siteground-coupon-code, https://serverbudget.com/vultr-coupon-code"
   },
   {
     "file": "datacenter-region-pricing.csv",
@@ -45,7 +45,7 @@
     "columns": 7,
     "bytes": 380,
     "md5": "8062586e89c6db87d98cba845580dd7f",
-    "source_page": "https://serverbudget.com/vps-datacenter-region-price.html"
+    "source_page": "https://serverbudget.com/vps-datacenter-region-price"
   },
   {
     "file": "contract-term-total-cost.csv",
@@ -53,7 +53,7 @@
     "columns": 8,
     "bytes": 457,
     "md5": "a635aaaa16f6d5de3333cd8938202ad8",
-    "source_page": "https://serverbudget.com/cheap-vps-contract-length-total-cost.html"
+    "source_page": "https://serverbudget.com/cheap-vps-contract-length-total-cost"
   },
   {
     "file": "entry-tier-pricing.csv",
@@ -61,6 +61,54 @@
     "columns": 7,
     "bytes": 406,
     "md5": "d0e343faed045503f6916d7bdc843afa",
-    "source_page": "https://serverbudget.com/cheap-vps-entry-price.html"
+    "source_page": "https://serverbudget.com/cheap-vps-entry-price"
+  },
+  {
+    "file": "provider-payment-methods.csv",
+    "rows": 48,
+    "columns": 4,
+    "bytes": 3292,
+    "md5": "cc3680196a346eed5c7a573094ca9f9d",
+    "source_page": "https://serverbudget.com/vps-payment-methods"
+  },
+  {
+    "file": "backup-tier-terms.csv",
+    "rows": 7,
+    "columns": 6,
+    "bytes": 2343,
+    "md5": "de818aae7978b3f364aaafac115aca02",
+    "source_page": "https://serverbudget.com/vps-backup-tier-comparison"
+  },
+  {
+    "file": "included-transfer-allowances.csv",
+    "rows": 3,
+    "columns": 5,
+    "bytes": 1403,
+    "md5": "dd46cee52de6af620ebe8b8d5ad6d0b8",
+    "source_page": "https://serverbudget.com/included-transfer-by-tier"
+  },
+  {
+    "file": "storage-extension-costs.csv",
+    "rows": 4,
+    "columns": 8,
+    "bytes": 2157,
+    "md5": "7483d316db1691d9087cd5609e1ba0b0",
+    "source_page": "https://serverbudget.com/vps-storage-extension-cost"
+  },
+  {
+    "file": "bandwidth-overage-units.csv",
+    "rows": 9,
+    "columns": 5,
+    "bytes": 3857,
+    "md5": "828346b9196e2121969ebe41672e8471",
+    "source_page": "https://serverbudget.com/vps-overage-throttle-vs-metered"
+  },
+  {
+    "file": "managed-db-metering-objects.csv",
+    "rows": 3,
+    "columns": 5,
+    "bytes": 1097,
+    "md5": "27bf61da8bab70fb24c8b1ab609c321a",
+    "source_page": "https://serverbudget.com/managed-database-engine-prices"
   }
 ]
